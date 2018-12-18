@@ -1,6 +1,8 @@
 # Fake-Hacker-Terminal
 A fake hacker terminal that stole FBI data, hack google, and make dangerous virus (LOL XD)
 
+![Screenshot](https://github.com/Urrova/Fake-Hacker-Terminal/blob/master/fakeHackerTerminal.png)
+
 ### Is a try to make something in C++. Is my first thing maded in this language.
 
 Commands:

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1540151850 source:f:\cpp\programas\fake hacker terminal\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<direct.h>
+	"list.h"
+	"virus.h"
+	"web.h"
+	"connect.h"
+	"commands.h"
+
+1540152916 f:\cpp\programas\fake hacker terminal\connect.h
+
+1540152872 f:\cpp\programas\fake hacker terminal\commands.h
+
+1540153730 f:\cpp\programas\fake hacker terminal\web.h
+
+1540152842 f:\cpp\programas\fake hacker terminal\list.h
+
+1540152960 f:\cpp\programas\fake hacker terminal\virus.h
+
+1540854056 source:f:\cpp\fuentes\programas\fake hacker terminal\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<direct.h>
+	"list.h"
+	"virus.h"
+	"web.h"
+	"connect.h"
+	"commands.h"
+
+1540152842 f:\cpp\fuentes\programas\fake hacker terminal\list.h
+
+1540155246 f:\cpp\fuentes\programas\fake hacker terminal\virus.h
+
+1540153730 f:\cpp\fuentes\programas\fake hacker terminal\web.h
+
+1540854200 f:\cpp\fuentes\programas\fake hacker terminal\connect.h
+
+1540854056 f:\cpp\fuentes\programas\fake hacker terminal\commands.h
+

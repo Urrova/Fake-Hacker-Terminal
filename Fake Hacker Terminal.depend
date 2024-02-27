@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1540151850 source:f:\cpp\programas\fake hacker terminal\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<direct.h>
+	"list.h"
+	"virus.h"
+	"web.h"
+	"connect.h"
+	"commands.h"
+
+1540152916 f:\cpp\programas\fake hacker terminal\connect.h
+
+1540152872 f:\cpp\programas\fake hacker terminal\commands.h
+
+1540153730 f:\cpp\programas\fake hacker terminal\web.h
+
+1540152842 f:\cpp\programas\fake hacker terminal\list.h
+
+1540152960 f:\cpp\programas\fake hacker terminal\virus.h
+
+1540854056 source:f:\cpp\fuentes\programas\fake hacker terminal\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<direct.h>
+	"list.h"
+	"virus.h"
+	"web.h"
+	"connect.h"
+	"commands.h"
+
+1540152842 f:\cpp\fuentes\programas\fake hacker terminal\list.h
+
+1540155246 f:\cpp\fuentes\programas\fake hacker terminal\virus.h
+
+1540153730 f:\cpp\fuentes\programas\fake hacker terminal\web.h
+
+1540854200 f:\cpp\fuentes\programas\fake hacker terminal\connect.h
+
+1540854056 f:\cpp\fuentes\programas\fake hacker terminal\commands.h
+
+1578678448 source:c:\users\dellnegra\documents\proyectos\c++\fake-hacker-terminal\source\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<direct.h>
+	"list.h"
+	"virus.h"
+	"web.h"
+	"connect.h"
+	"commands.h"
+
+1578678448 c:\users\dellnegra\documents\proyectos\c++\fake-hacker-terminal\source\list.h
+
+1578678448 c:\users\dellnegra\documents\proyectos\c++\fake-hacker-terminal\source\virus.h
+
+1578678448 c:\users\dellnegra\documents\proyectos\c++\fake-hacker-terminal\source\web.h
+
+1578682727 c:\users\dellnegra\documents\proyectos\c++\fake-hacker-terminal\source\connect.h
+
+1578682814 c:\users\dellnegra\documents\proyectos\c++\fake-hacker-terminal\source\commands.h
+
+1605530106 source:c:\users\user\documents\proyectos\programas random\fake-hacker-terminal\source\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<direct.h>
+	"list.h"
+	"virus.h"
+	"web.h"
+	"connect.h"
+	"commands.h"
+
+1578678450 c:\users\user\documents\proyectos\programas random\fake-hacker-terminal\source\list.h
+
+1578678450 c:\users\user\documents\proyectos\programas random\fake-hacker-terminal\source\virus.h
+
+1578678450 c:\users\user\documents\proyectos\programas random\fake-hacker-terminal\source\web.h
+
+1578682728 c:\users\user\documents\proyectos\programas random\fake-hacker-terminal\source\connect.h
+
+1578682816 c:\users\user\documents\proyectos\programas random\fake-hacker-terminal\source\commands.h
+
+1708982428 source:c:\users\user\documents\proyectos\programas random\fake hacker terminal\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<direct.h>
+	"list.h"
+	"virus.h"
+	"web.h"
+	"connect.h"
+	"commands.h"
+
+1708982309 c:\users\user\documents\proyectos\programas random\fake hacker terminal\list.h
+
+1578678450 c:\users\user\documents\proyectos\programas random\fake hacker terminal\virus.h
+
+1578678450 c:\users\user\documents\proyectos\programas random\fake hacker terminal\web.h
+
+1578682728 c:\users\user\documents\proyectos\programas random\fake hacker terminal\connect.h
+
+1578682816 c:\users\user\documents\proyectos\programas random\fake hacker terminal\commands.h
+
